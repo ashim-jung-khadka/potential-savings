@@ -1,0 +1,17 @@
+{
+  "name": "highchart-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "highcharts": "^6.0.3",
+    "highcharts-more": "^0.1.2",
+    "jquery": "^3.2.1",
+    "webpack": "^3.8.1"
+  }
+}

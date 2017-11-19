@@ -1,0 +1,59 @@
+body {
+    background-color: #f7f7f7;
+}
+
+#navbarHeader {
+    padding-top: 20px;
+    -webkit-transition: 1s ease;
+    -moz-transition: 1s ease;
+    -ms-transition: 1s ease;
+    -o-transition: 1s ease;
+    transition: 1s ease;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.navbar-inverse .navbar-toggler {
+    outline: none;
+    cursor: pointer;
+}
+
+.chart {
+    padding-top: 3rem;
+}
+
+.fluid-container {
+    width: 98%;
+    margin: 0 auto;
+}
+
+.header {
+    border: 1px solid;
+}
+
+.border {
+    border: 1px solid;
+}
+
+.white-backgroud {
+    background: #fff;
+}
+
+.mute-text {
+    color: #969a9c;
+}
+
+.highcharts-tooltip h3 {
+    margin: 0.3em 0;
+}
+
+.chart-box {
+    border-bottom: 1px solid;
+    margin: 10px 0;
+}
+
+.hide {
+    display: none;
+}
